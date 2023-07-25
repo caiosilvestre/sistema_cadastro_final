@@ -76,7 +76,7 @@ body{
 .menu{
   width: 20rem;
   overflow: hidden;
-  height: 100vh;
+  height: 100%;
   background-color: rgb(255, 170, 139);
   transition: all 0.5s ease-out;
   & .closeIcon {
